@@ -1,3 +1,58 @@
-h1 {
-  color: salmon;
+.heading{
+  margin: auto;
+  color: rgb(66, 61, 61);
+  text-align: center;
+}
+
+.local{
+  margin: auto;
+  color: rgb(66, 61, 61);
+  text-align: center;
+} 
+.heading2{
+  margin: 50px;
+  color: rgb(121, 121, 121);
+  text-align: center;
+}
+.container{
+  position: relative;
+  text-align: center;
+  }
+  
+  .inline{
+    float: left;
+    width: 31%;
+    border: gray 5px;
+    margin: 5px;
+    justify-content: center;
+}
+
+.guidebook{
+  text-align: center;
+  margin: 50px; 
+  border: rgb(66, 61, 61);
+}
+
+.container2{
+  position: relative;
+  text-align: center;
+  justify-content: center;
+} 
+
+.line{
+  float: left;
+    width: 31%;
+    border: gray 5px;
+    margin: 2px;
+    height: 1%;
+}
+.places{
+  text-align: center;
+  color: gray;
+} 
+.destination{
+  text-align: center;
+  color: grey;
+  margin: 100px;
+  padding-top: 100px;
 }
